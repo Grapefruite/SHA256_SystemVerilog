@@ -1,0 +1,22 @@
+C:/Users/Administrator/Desktop/SHA256/rtl/sha_top.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Administrator/Desktop/SHA256/rtl/sha_top.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module sha_top
+
+Top level modules:
+	sha_top
+
+} {} {}} C:/Users/Administrator/Desktop/SHA256/rtl/data_preprocess.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Administrator/Desktop/SHA256/rtl/data_preprocess.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module data_preprocess
+
+Top level modules:
+	data_preprocess
+
+} {} {}} C:/Users/Administrator/Desktop/SHA256/rtl/sha_transform.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Administrator/Desktop/SHA256/rtl/sha_transform.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module sha_transform
+
+Top level modules:
+	sha_transform
+
+} {} {}}

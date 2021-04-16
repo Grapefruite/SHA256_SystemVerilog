@@ -1,0 +1,121 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Administrator/Desktop/SHA256/rtl
+vdata_preprocess
+Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 McTbC;i7n_Q[206`l05QB0
+I]4LFYazmja?BV25eAfN`>3
+!s105 data_preprocess_sv_unit
+S1
+R0
+w1618368375
+8C:/Users/Administrator/Desktop/SHA256/rtl/data_preprocess.sv
+FC:/Users/Administrator/Desktop/SHA256/rtl/data_preprocess.sv
+L0 5
+Z3 OL;L;10.4;61
+!s108 1618374364.513000
+!s107 C:/Users/Administrator/Desktop/SHA256/rtl/data_preprocess.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Administrator/Desktop/SHA256/rtl/data_preprocess.sv|
+!i113 0
+Z4 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vdata_preprocess_tb
+R1
+!s110 1618311467
+!i10b 1
+!s100 <G;FL?OJFF]BEWKAQ4AfW3
+IJjmEna@MfRVLRjegV:A402
+R2
+!s105 data_preprocess_tb_sv_unit
+S1
+R0
+w1618308767
+8C:/Users/Administrator/Desktop/SHA256/rtl/data_preprocess_tb.sv
+FC:/Users/Administrator/Desktop/SHA256/rtl/data_preprocess_tb.sv
+L0 18
+R3
+r1
+!s85 0
+31
+!s108 1618311467.252000
+!s107 C:/Users/Administrator/Desktop/SHA256/rtl/data_preprocess_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Administrator/Desktop/SHA256/rtl/data_preprocess_tb.sv|
+!i113 0
+R4
+vsha_top
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 B6P`OhOZ:BbP]L`m_DhBB3
+IMf]H3:BQgRHOT3g0Ki>S73
+!s105 sha_top_sv_unit
+S1
+R0
+w1618311406
+8C:/Users/Administrator/Desktop/SHA256/rtl/sha_top.sv
+FC:/Users/Administrator/Desktop/SHA256/rtl/sha_top.sv
+L0 5
+R3
+!s108 1618374364.594000
+!s107 C:/Users/Administrator/Desktop/SHA256/rtl/sha_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Administrator/Desktop/SHA256/rtl/sha_top.sv|
+!i113 0
+R4
+vsha_top_tb
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 C61TjUUTcELhlnhdj<Yeh1
+I8iIRBao:cg`8B3LA7D]P?0
+!s105 sha_top_tb_sv_unit
+S1
+R0
+w1618374362
+8C:/Users/Administrator/Desktop/SHA256/rtl/sha_top_tb.sv
+FC:/Users/Administrator/Desktop/SHA256/rtl/sha_top_tb.sv
+L0 21
+R3
+!s108 1618374364.744000
+!s107 C:/Users/Administrator/Desktop/SHA256/rtl/sha_top_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Administrator/Desktop/SHA256/rtl/sha_top_tb.sv|
+!i113 0
+R4
+vsha_transform
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 5@U=B^Ia3MP4=PhG`SXRV3
+I5ao42K4cPL7@_Uc@9ZcOo0
+!s105 sha_transform_sv_unit
+S1
+R0
+w1618367886
+8C:/Users/Administrator/Desktop/SHA256/rtl/sha_transform.sv
+FC:/Users/Administrator/Desktop/SHA256/rtl/sha_transform.sv
+L0 5
+R3
+!s108 1618374364.673000
+!s107 C:/Users/Administrator/Desktop/SHA256/rtl/sha_transform.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Administrator/Desktop/SHA256/rtl/sha_transform.sv|
+!i113 0
+R4
